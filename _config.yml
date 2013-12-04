@@ -3,10 +3,10 @@
 # ----------------------- #
 
 url: http://jellow.github.io
-title: My Octopress Blog
+title: Jellow Blog
 subtitle: A blogging framework for hackers.
-author: Your Name
-simple_search: http://google.com/search
+author: Mark Lau
+simple_search: http://google.com.hk/search
 description:
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
